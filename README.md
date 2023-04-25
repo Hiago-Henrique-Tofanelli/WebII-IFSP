@@ -5,8 +5,8 @@
 <br>
 <br>
 <div style="display:inline" align="center">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=merko" />
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&theme=merko" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Hiago-Henrique-Tofanelli&show_icons=true&theme=merko" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago-Henrique-Tofanelli&layout=compact&theme=merko" />
 </div>
 <br>
 <br>
